@@ -43,7 +43,7 @@ namespace Bit2Naira_API.controllers
             var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
             if (userIdClaim == null)
             {
-                return Unauthorized("Invalid token: user id missing");
+                return Unauthorized("Invalid token: user id missing...");
             }
 
             int userId = int.Parse(userIdClaim.Value);
