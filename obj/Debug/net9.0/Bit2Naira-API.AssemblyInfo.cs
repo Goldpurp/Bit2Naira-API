@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bit2Naira-API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60d5c990067127a876a8a983d5bd2d6c8708cc9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bit2Naira-API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bit2Naira-API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

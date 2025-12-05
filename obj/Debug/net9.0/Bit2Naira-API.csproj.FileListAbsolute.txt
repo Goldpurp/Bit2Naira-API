@@ -370,3 +370,4 @@
 /Users/mac/Desktop/Bit2Naira/Bit2Naira-API/obj/Debug/net9.0/Bit2Naira-API.pdb
 /Users/mac/Desktop/Bit2Naira/Bit2Naira-API/obj/Debug/net9.0/Bit2Naira-API.genruntimeconfig.cache
 /Users/mac/Desktop/Bit2Naira/Bit2Naira-API/obj/Debug/net9.0/ref/Bit2Naira-API.dll
+/Users/mac/Desktop/Bit2Naira/Bit2Naira-API/obj/Debug/net9.0/Bit2Naira-API.sourcelink.json
